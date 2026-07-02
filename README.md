@@ -162,7 +162,7 @@ Below is a list of one-shot ECPPs for the least prime $p > 10^n$ for various $n$
 ```
 </details>
 <details>
-<summary>$p=2^{256}-2^{32}-977$ (secp256k1),&nbsp; <a href="https://math.mit.edu/~drew/">Axndrew V. Sutherland</a> and Claude Code (Opus 4.8 and Fable 5) via <a href="https://github.com/AndrewVSutherland2/OneShotFastECPP">OneShotFastECPP</a> (~8s on 16 cores).</summary>
+<summary>$p=2^{256}-2^{32}-977$ (secp256k1),&nbsp; <a href="https://math.mit.edu/~drew/">AVS</a> and Claude Code (Opus 4.8 and Fable 5) via <a href="https://github.com/AndrewVSutherland2/OneShotFastECPP">OneShotFastECPP</a> (~8s on 16 cores).</summary>
 
 ```
 115792089237316195423570985008687907853269984665640564039457584007908834671663 92074940234742247234154060771259483398311224700956115778449625275249279054459 57674200289811738929746541688508114140790732124060843703810056650520398980304 447281840482061594290746269221377567953 70999 990179 1060379 1640071 61234213
